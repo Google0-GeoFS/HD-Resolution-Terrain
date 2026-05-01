@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         HD Resolution Terrain
 // @namespace    http://tampermonkey.net/
-// @version      2026-03-22
+// @version      1
 // @description  Gets higher resolution terrain
 // @author       Google0
 // @match        https://www.geo-fs.com/geofs.php?v=*
