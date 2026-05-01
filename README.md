@@ -13,7 +13,7 @@ Clear any existing code in the editor and paste the HD.js code.
 
 Click on File, then select Save.
 
-Make sure to reload the site atleast 1 time after you have enabled the code.
+Make sure to reload the site atleast 1 time after you have enabled the addon.
 
 Method 2: JavaScript Console
 Note: This method requires you to manually paste the code into the console every time you launch GeoFS.
